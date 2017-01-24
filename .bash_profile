@@ -40,7 +40,7 @@ export PS1=$LIGHT_RED"\u@\h"'$(
 
 alias ll='ls -lah'
 alias gg='git status -s'
-
+alias jupyter='jupyter notebook'
 
 export EDITOR=/usr/local/bin/vim
 
